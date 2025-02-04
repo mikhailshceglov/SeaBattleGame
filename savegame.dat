@@ -1,0 +1,470 @@
+{
+    "abilities": {
+        "abilities": [
+            "Double Damage",
+            "Double Damage",
+            "Double Damage"
+        ]
+    },
+    "currentRound": 1,
+    "enemyField": {
+        "field": [
+            [
+                1,
+                1,
+                1,
+                1,
+                0,
+                2,
+                0,
+                0,
+                0,
+                2
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                0,
+                0,
+                2
+            ],
+            [
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            [
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                2
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                1,
+                2,
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                2,
+                2,
+                0,
+                0,
+                2,
+                2,
+                1,
+                1,
+                1
+            ]
+        ],
+        "height": 10,
+        "width": 10
+    },
+    "enemyShips": {
+        "ships": [
+            {
+                "orientation": 0,
+                "segments": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "size": 4,
+                "startX": 0,
+                "startY": 0
+            },
+            {
+                "orientation": 0,
+                "segments": [
+                    0,
+                    0,
+                    0
+                ],
+                "size": 3,
+                "startX": 0,
+                "startY": 9
+            },
+            {
+                "orientation": 1,
+                "segments": [
+                    0,
+                    0,
+                    0
+                ],
+                "size": 3,
+                "startX": 9,
+                "startY": 0
+            },
+            {
+                "orientation": 0,
+                "segments": [
+                    0,
+                    0
+                ],
+                "size": 2,
+                "startX": 5,
+                "startY": 9
+            },
+            {
+                "orientation": 0,
+                "segments": [
+                    0,
+                    0
+                ],
+                "size": 2,
+                "startX": 8,
+                "startY": 9
+            },
+            {
+                "orientation": 1,
+                "segments": [
+                    0,
+                    0
+                ],
+                "size": 2,
+                "startX": 5,
+                "startY": 5
+            },
+            {
+                "orientation": 0,
+                "segments": [
+                    0
+                ],
+                "size": 1,
+                "startX": 5,
+                "startY": 0
+            },
+            {
+                "orientation": 1,
+                "segments": [
+                    0
+                ],
+                "size": 1,
+                "startX": 2,
+                "startY": 5
+            },
+            {
+                "orientation": 0,
+                "segments": [
+                    0
+                ],
+                "size": 1,
+                "startX": 2,
+                "startY": 2
+            },
+            {
+                "orientation": 1,
+                "segments": [
+                    0
+                ],
+                "size": 1,
+                "startX": 9,
+                "startY": 5
+            }
+        ]
+    },
+    "playerField": {
+        "field": [
+            [
+                2,
+                2,
+                2,
+                2,
+                0,
+                2,
+                0,
+                1,
+                0,
+                2
+            ],
+            [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                1,
+                2
+            ],
+            [
+                1,
+                1,
+                2,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                2
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                2
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            [
+                2,
+                2,
+                2,
+                0,
+                0,
+                2,
+                2,
+                0,
+                2,
+                2
+            ]
+        ],
+        "height": 10,
+        "width": 10
+    },
+    "playerShips": {
+        "ships": [
+            {
+                "orientation": 0,
+                "segments": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "size": 4,
+                "startX": 0,
+                "startY": 0
+            },
+            {
+                "orientation": 0,
+                "segments": [
+                    0,
+                    0,
+                    0
+                ],
+                "size": 3,
+                "startX": 0,
+                "startY": 9
+            },
+            {
+                "orientation": 1,
+                "segments": [
+                    0,
+                    0,
+                    0
+                ],
+                "size": 3,
+                "startX": 9,
+                "startY": 0
+            },
+            {
+                "orientation": 0,
+                "segments": [
+                    0,
+                    0
+                ],
+                "size": 2,
+                "startX": 5,
+                "startY": 9
+            },
+            {
+                "orientation": 0,
+                "segments": [
+                    0,
+                    0
+                ],
+                "size": 2,
+                "startX": 8,
+                "startY": 9
+            },
+            {
+                "orientation": 1,
+                "segments": [
+                    0,
+                    0
+                ],
+                "size": 2,
+                "startX": 5,
+                "startY": 5
+            },
+            {
+                "orientation": 0,
+                "segments": [
+                    0
+                ],
+                "size": 1,
+                "startX": 5,
+                "startY": 0
+            },
+            {
+                "orientation": 1,
+                "segments": [
+                    0
+                ],
+                "size": 1,
+                "startX": 2,
+                "startY": 5
+            },
+            {
+                "orientation": 0,
+                "segments": [
+                    0
+                ],
+                "size": 1,
+                "startX": 2,
+                "startY": 2
+            },
+            {
+                "orientation": 1,
+                "segments": [
+                    0
+                ],
+                "size": 1,
+                "startX": 9,
+                "startY": 5
+            }
+        ]
+    }
+}
