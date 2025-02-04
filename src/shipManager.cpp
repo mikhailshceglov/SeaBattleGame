@@ -1,6 +1,6 @@
 #include <iostream>
 #include <tuple>
-#include "shipManager.h"
+#include "ShipManager.h"
 #include "ship.h"
 #include "field.h"
 #include "exceptions.h"

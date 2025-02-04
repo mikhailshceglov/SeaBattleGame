@@ -3,7 +3,7 @@
 
 #include <memory>
 #include "field.h"
-#include "shipManager.h"
+#include "ShipManager.h"
 #include "abilityManager.h"
 #include "GameState.h"
 #include "gui_logger.h"

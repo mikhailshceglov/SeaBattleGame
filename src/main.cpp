@@ -92,7 +92,7 @@
 //GUI
 
 #include "ship.h"
-#include "shipManager.h"
+#include "ShipManager.h"
 #include "field.h"
 #include "DoubleDamage.h"
 #include "Scanner.h"
@@ -101,7 +101,6 @@
 #include "GameLoop.h"
 #include "GameState.h"
 #include "input_render.h"
-#include "game_controller.h"
 
 #include "game_render.h"
 #include "field_render.h"

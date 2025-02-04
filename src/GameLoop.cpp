@@ -1,5 +1,5 @@
 #include "GameLoop.h"
-#include "Exceptions.h"
+#include "exceptions.h"
 #include "GameState.h"
 #include "gui_logger.h"
 

@@ -8,7 +8,7 @@ using json = nlohmann::json;
 
 
 #include "ship.h"
-#include "shipManager.h"
+#include "ShipManager.h"
 
 enum class CellStatus {
     Unknown = 0,

@@ -7,7 +7,7 @@
 #include <nlohmann/json.hpp>
 
 #include "field.h"
-#include "shipManager.h"
+#include "ShipManager.h"
 #include "abilityManager.h"
 
 using json = nlohmann::json;

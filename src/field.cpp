@@ -1,7 +1,7 @@
 #include <iostream>
 
 #include "field.h"
-#include "shipManager.h"
+#include "ShipManager.h"
 #include "ship.h"
 #include "exceptions.h"
 #include "GameState.h"

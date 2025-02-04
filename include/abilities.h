@@ -3,7 +3,7 @@
 
 #include <string>
 #include "field.h"
-#include "shipManager.h"
+#include "ShipManager.h"
 #include "gui_logger.h"
 
 class Ability {
